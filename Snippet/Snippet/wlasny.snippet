@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>
+				My function
+			</Title>
+			<Shortcut>
+				myfunc
+			</Shortcut>
+		</Header>
+		<Snippet>
+			<Code Language="CSharp">
+				<![CDATA[
+$type$ $funcname$ () {
+
+return $returnvalue$;
+}
+				]]>
+			</Code>
+			<Declarations>
+				<Literal>
+					<ID>type</ID>
+					<Default>void</Default>
+				</Literal>
+				<Literal>
+					<ID>funcname</ID>
+					<Default>MyFunc</Default>
+				</Literal>
+				<Literal>
+					<ID>returnvalue</ID>
+					<Default>0</Default>
+				</Literal>
+			</Declarations>
+		</Snippet>
+	</CodeSnippet >
+</CodeSnippets>

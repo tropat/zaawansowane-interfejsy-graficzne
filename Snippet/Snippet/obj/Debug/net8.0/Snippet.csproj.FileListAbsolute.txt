@@ -1,0 +1,4 @@
+C:\Users\48513\Desktop\Studia\Magister\II sem\Zaawansowane Interfejsy Graficzne\Snippet\Snippet\obj\Debug\net8.0\Snippet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48513\Desktop\Studia\Magister\II sem\Zaawansowane Interfejsy Graficzne\Snippet\Snippet\obj\Debug\net8.0\Snippet.AssemblyInfoInputs.cache
+C:\Users\48513\Desktop\Studia\Magister\II sem\Zaawansowane Interfejsy Graficzne\Snippet\Snippet\obj\Debug\net8.0\Snippet.AssemblyInfo.cs
+C:\Users\48513\Desktop\Studia\Magister\II sem\Zaawansowane Interfejsy Graficzne\Snippet\Snippet\obj\Debug\net8.0\Snippet.csproj.CoreCompileInputs.cache
